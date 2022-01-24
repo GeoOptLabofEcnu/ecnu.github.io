@@ -1,12 +1,10 @@
-## Welcome to GitHub Pages
+###关于我们
 
-You can use the [editor on GitHub](https://github.com/GeoOptLabofEcnu/ecnu.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+我们是
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 出版物
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Zhang, Rui, et al. "Joint learning of fuzzy k-means and nonnegative spectral clustering with side information." IEEE Transactions on Image Processing 28.5 (2018): 2152-2162.
 
 ```markdown
 Syntax highlighted code block
